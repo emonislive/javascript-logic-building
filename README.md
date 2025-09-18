@@ -13,3 +13,10 @@ Source: [Youtube Playlist Link](https://youtube.com/playlist?list=PLq1qGLnPX0eee
 | 1   | Write a program that prints "Hello World" on the console                 |    [source code](https://github.com/emonislive/javascript-logic-building/blob/main/practice-1/p-1.js)    |
 | 2   | Write a function that takes two numbers as input and prints their sum    |    [source code](https://github.com/emonislive/javascript-logic-building/blob/main/practice-1/p-2.js)   |
 | 3   | Write a function that calculates and prints the area of a rectangle given its length and width |  [source code](https://github.com/emonislive/javascript-logic-building/blob/main/practice-1/p-3.js)      |
+
+### Practice 2
+
+| No. | Problem                                                                 | Answer |
+|-----|--------------------------------------------------------------------------|--------|
+| 4   | Write a function that tells if a given number is even or odd             | [source code](https://github.com/emonislive/javascript-logic-building/blob/main/practice-2/p-4.js) |
+| 5   | Write a function that finds and prints the smallest number among three given numbers | [source code](https://github.com/emonislive/javascript-logic-building/blob/main/practice-2/p-5.js) |
