@@ -1,6 +1,6 @@
 // ! Write a function that generates and prints a multiplication table for a given number up to a specific range
 
-function sumOfDigits(num, range) {
+function multiTable(num, range) {
   if (typeof num !== "number") {
     throw new TypeError("The given value has to be number/integer");
   }
@@ -14,4 +14,4 @@ function sumOfDigits(num, range) {
   }
 }
 
-sumOfDigits(3, 10);
+multiTable(3, 10);
