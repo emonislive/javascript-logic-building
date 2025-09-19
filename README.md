@@ -41,4 +41,9 @@ Source: [Youtube Playlist Link](https://youtube.com/playlist?list=PLq1qGLnPX0eee
 | 8   | Write a function that tells if provided year is a leap year or not       | [source code](https://github.com/emonislive/javascript-logic-building/blob/main/practice-5/p-8.js)                             |
 
 
+### Practice 6
+
+| No. | Problem                                                                            | Answer                                                                                                               |
+|-----|------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
+| 9   | Write a function that calculates and prints the sum of digits of a given number    | [source code](https://github.com/emonislive/javascript-logic-building/blob/main/practice-6/p-9.js)                   |
 
