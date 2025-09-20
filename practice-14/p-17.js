@@ -9,9 +9,10 @@ function calculateInterest(principalAmount, interestRatePerYear, timeDuration) {
     throw new TypeError("All the Three values has to be Number Type");
   }
 
-  let simpleInterest =
-    (principalAmount * interestRatePerYear * timeDuration) / 100;
-  console.log("Simple Interest:", simpleInterest);
+  let simpleInterest = (principalAmount * interestRatePerYear * timeDuration) / 100;
+  simpleInterest = simpleInterest.toFixed(2);
+
+  console.log(`Simple Interest: ${simpleInterest}$`);
 }
 
-calculateInterest(1000, 5, 1);
+calculateInterest(1039, 5.2, 1);
