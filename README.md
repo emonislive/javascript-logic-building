@@ -115,3 +115,34 @@
 |-----|------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|
 | 18  | Write a function that tells if the given number is prime or not. [Optimized Version]           | [source code](https://github.com/emonislive/javascript-logic-building/blob/main/practice-15/p-18.js)                                     |
 
+
+### Practice 16
+
+| No. | Problem                                                            | Answer                                                                                                                                         |
+|-----|--------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
+| 19  | Write a function that counts and returns the number of words in a sentence | [source code](https://github.com/emonislive/javascript-logic-building/blob/main/practice-16/p-19.js)                                         |
+
+### Practice 17
+
+| No. | Problem                                                           | Answer                                                                                                                                         |
+|-----|-------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
+| 20  | Write a function that converts a temperature in Celsius to Fahrenheit | [source code](https://github.com/emonislive/javascript-logic-building/blob/main/practice-17/p-20.js)                                         |
+
+### Practice 18
+
+| No. | Problem                                                            | Answer                                                                                                                                         |
+|-----|--------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
+| 21  | Write a program that swap two numbers                               | [source code](https://github.com/emonislive/javascript-logic-building/blob/main/practice-18/p-21.js)                                         |
+
+### Practice 19
+
+| No. | Problem                                                            | Answer                                                                                                                                         |
+|-----|--------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
+| 22  | Write a program that checks if a number is Armstrong or not        | [source code](https://github.com/emonislive/javascript-logic-building/blob/main/practice-19/p-22.js)                                         |
+
+### Practice 20
+
+| No. | Problem                                                                            | Answer                                                                                                                                         |
+|-----|------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
+| 23  | Write a program that prints numbers from 1 to N replacing: <br> - multiple of 3 with "Fizz" <br> - multiple of 5 with "Buzz" <br> - multiple of both 3 & 5 with "FizzBuzz" | [source code](https://github.com/emonislive/javascript-logic-building/blob/main/practice-20/p-23.js)   |
+
