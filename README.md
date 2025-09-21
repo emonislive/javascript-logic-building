@@ -9,8 +9,9 @@
   ***Source: [Youtube Playlist Link](https://youtube.com/playlist?list=PLq1qGLnPX0eeeK_JmsiMavOqkZ6tgQjdF&si=2lKpfWamQ5MegmQD)*** <br>
   ***All Questions: [PDF]()***
 
-
-### Practice 1️
+</div>
+  
+### Practice 1
 
 | No. | Problem                                                                  | Answer                                                                                                                         |
 |-----|--------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|
@@ -18,7 +19,7 @@
 | 2   | Write a function that takes two numbers as input and prints their sum    |    [source code](https://github.com/emonislive/javascript-logic-building/blob/main/practice-1/p-2.js)                          |
 | 3   | Write a function that calculates and prints the area of a rectangle given its length and width |  [source code](https://github.com/emonislive/javascript-logic-building/blob/main/practice-1/p-3.js)      |
 
-### Practice 2️
+### Practice 2
 
 | No. | Problem                                                                  | Answer                                                                                                                         |
 |-----|--------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|
@@ -26,57 +27,91 @@
 | 5   | Write a function that finds and prints the smallest number among three given numbers | [source code](https://github.com/emonislive/javascript-logic-building/blob/main/practice-2/p-5.js)                 |
 
 
-### Practice 3️
+### Practice 3
 
 | No. | Problem                                                                  | Answer                                                                                                                         |
 |-----|--------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|
 | 6   | Write a function that returns the reverse of a string                    | [source code](https://github.com/emonislive/javascript-logic-building/blob/main/practice-3/p-6.js)                             |
 
-### Practice 4️
+### Practice 4
 
 | No. | Problem                                                                  | Answer                                                                                                                         |
 |-----|--------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|
 | 7   | Write a function that returns the reverse of a string                    | [source code](https://github.com/emonislive/javascript-logic-building/blob/main/practice-4/p-7.js)                             |
 
-### Practice 5️
+### Practice 5
 
 | No. | Problem                                                                  | Answer                                                                                                                         |
 |-----|--------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|
 | 8   | Write a function that tells if provided year is a leap year or not       | [source code](https://github.com/emonislive/javascript-logic-building/blob/main/practice-5/p-8.js)                             |
 
 
-### Practice 6️
+### Practice 6
 
 | No. | Problem                                                                            | Answer                                                                                                                                          |
 |-----|------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
 | 9   | Write a function that calculates and prints the sum of digits of a given number    | [source code](https://github.com/emonislive/javascript-logic-building/blob/main/practice-6/p-9.js)                                              |
 
 
-### Practice 7️
+### Practice 7
 
 | No. | Problem                                                                                                       | Answer                                                                                                               |
 |-----|---------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
 | 10  | Write a function that generates and prints a multiplication table for a given number up to a specific range   | [source code](https://github.com/emonislive/javascript-logic-building/blob/main/practice-7/p-10.js)                  |
 
 
-### Practice 8️
+### Practice 8
 
 | No. | Problem                                                                             | Answer                                                                                                                                         |
 |-----|-------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
 | 11  | Write a function that finds and prints the maximum element in an array of numbers   | [source code](https://github.com/emonislive/javascript-logic-building/blob/main/practice-8/p-11.js)                                            |
 
 
-### Practice 9️
+### Practice 9
 
 | No. | Problem                                                         | Answer                                                                                                                                                             |
 |-----|-----------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 12  | Write a function that checks if a string is palindrome or not   | [source code](https://github.com/emonislive/javascript-logic-building/blob/main/practice-9/p-12.js)                                                                |
 
 
-### Practice 1️0️
+### Practice 10
 
 | No. | Problem                                                                                   | Answer                                                                                                                                   |
 |-----|-------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|
 | 13  | Write a function that returns the result of raising a given number to a specified power   | [source code](https://github.com/emonislive/javascript-logic-building/blob/main/practice-10/p-13.js)                                     |
 
-</div>
+
+### Practice 11
+
+| No. | Problem                                                                                  | Answer                                                                                                                                   |
+|-----|------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|
+| 14  | Write a function that calculates the factorial of a given number                         | [source code](https://github.com/emonislive/javascript-logic-building/blob/main/practice-11/p-14.js)                                     |
+
+
+### Practice 12
+
+| No. | Problem                                                                                     | Answer                                                                                                                                   |
+|-----|---------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|
+| 15  | Write a function that checks if a given number is prime or not                              | [source code](https://github.com/emonislive/javascript-logic-building/blob/main/practice-12/p-15.js)                                     |
+
+
+### Practice 13
+
+| No. | Problem                                                                                   | Answer                                                                                                                        |
+|-----|-------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| 16  | Write a function that finds and prints the second largest number in an array              | [source code](https://github.com/emonislive/javascript-logic-building/blob/main/practice-13/p-16.js)                          |
+
+
+### Practice 14
+
+| No. | Problem                                                                                              | Answer                                                                                                                      |
+|-----|------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
+| 17  | Write a function that sorts an array of numbers in ascending order                                   | [source code](https://github.com/emonislive/javascript-logic-building/blob/main/practice-14/p-17.js)                        |
+
+
+### Practice 15
+
+| No. | Problem                                                                                              | Answer                                                                                                                    |
+|-----|------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+| 18  | Write a function that sorts an array of strings in reverse (descending) alphabetical order           | [source code](https://github.com/emonislive/javascript-logic-building/blob/main/practice-15/p-18.js)                      |
+
