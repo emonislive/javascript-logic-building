@@ -83,35 +83,35 @@
 
 ### Practice 11
 
-| No. | Problem                                                                                  | Answer                                                                                                                                   |
-|-----|------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|
-| 14  | Write a function that calculates the factorial of a given number                         | [source code](https://github.com/emonislive/javascript-logic-building/blob/main/practice-11/p-14.js)                                     |
+| No. | Problem                                                                                           | Answer                                                                                                                                   |
+|-----|---------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|
+| 14  | Write a function that counts and prints the number of vowels and consonants in a given string     | [source code](https://github.com/emonislive/javascript-logic-building/blob/main/practice-11/p-14.js)                                     |
 
 
 ### Practice 12
 
-| No. | Problem                                                                                     | Answer                                                                                                                                   |
-|-----|---------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|
-| 15  | Write a function that checks if a given number is prime or not                              | [source code](https://github.com/emonislive/javascript-logic-building/blob/main/practice-12/p-15.js)                                     |
+| No. | Problem                                                                                 | Answer                                                                                                                                   |
+|-----|-----------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|
+| 15  | Write a function that finds all the factors of a given number                           | [source code](https://github.com/emonislive/javascript-logic-building/blob/main/practice-12/p-15.js)                                     |
 
 
 ### Practice 13
 
-| No. | Problem                                                                                   | Answer                                                                                                                        |
-|-----|-------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
-| 16  | Write a function that finds and prints the second largest number in an array              | [source code](https://github.com/emonislive/javascript-logic-building/blob/main/practice-13/p-16.js)                          |
+| No. | Problem                                                                                       | Answer                                                                                                                                   |
+|-----|-----------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|
+| 16  | Write a function that calculates and returns the average of a set of numbers                  | [source code](https://github.com/emonislive/javascript-logic-building/blob/main/practice-13/p-16.js)                                     |
 
 
 ### Practice 14
 
-| No. | Problem                                                                                              | Answer                                                                                                                      |
-|-----|------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
-| 17  | Write a function that sorts an array of numbers in ascending order                                   | [source code](https://github.com/emonislive/javascript-logic-building/blob/main/practice-14/p-17.js)                        |
+| No. | Problem                                                                                           | Answer                                                                                                                                   |
+|-----|---------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|
+| 17  | Write a function that calculates and prints the simple interest on a loan amount                  | [source code](https://github.com/emonislive/javascript-logic-building/blob/main/practice-14/p-17.js)                                     |
 
 
 ### Practice 15
 
-| No. | Problem                                                                                              | Answer                                                                                                                    |
-|-----|------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| 18  | Write a function that sorts an array of strings in reverse (descending) alphabetical order           | [source code](https://github.com/emonislive/javascript-logic-building/blob/main/practice-15/p-18.js)                      |
+| No. | Problem                                                                                        | Answer                                                                                                                                   |
+|-----|------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|
+| 18  | Write a function that tells if the given number is prime or not. [Optimized Version]           | [source code](https://github.com/emonislive/javascript-logic-building/blob/main/practice-15/p-18.js)                                     |
 
