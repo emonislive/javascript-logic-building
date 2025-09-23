@@ -46,3 +46,26 @@ function frequencyCount(message) {
 
 const message = "Life is full of sadness";
 frequencyCount(message);
+
+
+
+// ? Method 3
+function frequencyCount(message) {
+  message = message.toLowerCase();
+  const splittedString = message.split("");
+  const result = splittedString.reduce(operation, {});
+
+  console.log(result);
+}
+
+function operation(object, char) {
+  if (char !== " ") {
+    if (!object[char]) {
+      object[char] = 0;
+    }
+    object[char]++;
+  }
+  return object;
+}
+const message = "Life is full of sadness";
+frequencyCount(message);
