@@ -2,7 +2,9 @@
 // ??? First install "npm install prompt-sync"
 
 function guessingGame() {
-  console.log("Player 2 guessed a number between(1-100)...It's your turn now");
+  console.log(
+    "\nPlayer 2 guessed a number between(1-100)...It's your turn now\n"
+  );
 
   const randomNumber = Math.floor(Math.random() * 100 + 1);
   const prompt = require("prompt-sync")();
@@ -24,20 +26,20 @@ function guessingGame() {
     let diff = randomNumber - userInput;
 
     if (diff === 0) {
-      console.log(`🎉 You Won. It took you only ${5 - attempt} attempt`);
+      console.log(`\n🎉 You Won. It took you  only ${5 - attempt} attempt\n`);
       return;
     } else if (diff >= 1 && diff <= 5) {
-      console.log("Hint: Very Close");
+      console.log("Hint: Very Close\n");
     } else if (diff > 5) {
-      console.log("Hint: Too Low");
+      console.log("Hint: Too Low\n");
     } else if (diff >= -5 && diff <= -1) {
-      console.log("Hint: Very Close");
+      console.log("Hint: Very Close\n");
     } else if (diff < -5) {
-      console.log("Hint: Too High");
+      console.log("Hint: Too High\n");
     }
   }
   console.log("You Lost :(");
-  console.log(`The Number was: ${randomNumber}`);
+  console.log(`The Number was: ${randomNumber}\n\n`);
 }
 
 guessingGame();
