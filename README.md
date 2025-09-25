@@ -7,7 +7,7 @@
 <div align="center">
   
   ***Source: [Youtube Playlist Link](https://youtube.com/playlist?list=PLq1qGLnPX0eeeK_JmsiMavOqkZ6tgQjdF&si=2lKpfWamQ5MegmQD)*** <br>
-  ***All Questions: [PDF]()***
+  ***All Questions: [PDF](https://github.com/emonislive/javascript-logic-building/blob/main/All-Questions.pdf)***
 
 </div>
   
@@ -146,3 +146,117 @@
 |-----|------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
 | 23  | Write a program that prints numbers from 1 to N replacing: <br> - multiple of 3 with "Fizz" <br> - multiple of 5 with "Buzz" <br> - multiple of both 3 & 5 with "FizzBuzz" | [source code](https://github.com/emonislive/javascript-logic-building/blob/main/practice-20/p-23.js)   |
 
+### Practice 21
+
+| No. | Problem                                       | Answer                                                                                                                          |
+|-----|-----------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
+| 24  | Write a program that prints a number pyramid  | [source code](https://github.com/emonislive/javascript-logic-building/blob/main/practice-21/p-24.js)                           |
+
+### Practice 22
+
+| No. | Problem                                                                    | Answer                                                                                                                          |
+|-----|----------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
+| 25  | Write a program that counts the occurrences of each character in a given string | [source code](https://github.com/emonislive/javascript-logic-building/blob/main/practice-22/p-25.js)                       |
+
+### Practice 23
+
+| No. | Problem                                                       | Answer                                                                                                                          |
+|-----|---------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
+| 26  | Write a program that checks if a given string is in alphabetical order | [source code](https://github.com/emonislive/javascript-logic-building/blob/main/practice-23/p-26.js)                   |
+
+### Practice 24
+
+| No. | Problem                                                       | Answer                                                                                                                          |
+|-----|---------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
+| 27  | Write a program that checks if two given strings are anagrams of each other | [source code](https://github.com/emonislive/javascript-logic-building/blob/main/practice-24/p-27.js)                 |
+
+### Practice 25
+
+| No. | Problem                                                       | Answer                                                                                                                          |
+|-----|---------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
+| 28  | Write a program that transposes a given matrix (swaps rows and columns) | [source code](https://github.com/emonislive/javascript-logic-building/blob/main/practice-25/p-28.js)                   |
+
+### Practice 26
+
+| No. | Problem                                                       | Answer                                                                                                                          |
+|-----|---------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
+| 29  | Write a program that checks if a given number is a perfect number | [source code](https://github.com/emonislive/javascript-logic-building/blob/main/practice-26/p-29.js)                     |
+
+### Practice 27
+
+| No. | Problem                                                       | Answer                                                                                                                          |
+|-----|---------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
+| 30  | Write a program that checks if the provided password is strong or not | [source code](https://github.com/emonislive/javascript-logic-building/blob/main/practice-27/p-30.js)                     |
+
+### Practice 28
+
+| No. | Problem                                                       | Answer                                                                                                                          |
+|-----|---------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
+| 31  | Write a program that multiplies two matrices and returns the result | [source code](https://github.com/emonislive/javascript-logic-building/blob/main/practice-28/p-31.js)                     |
+
+### Practice 29
+
+| No. | Problem                                                       | Answer                                                                                                                          |
+|-----|---------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
+| 32  | Write a program that calculates the tip amounts based on the bill total and percentages entered by the user (Tip Calculator) | [source code](https://github.com/emonislive/javascript-logic-building/blob/main/practice-29/p-32.js) |
+
+### Practice 30
+
+| No. | Problem                                                       | Answer                                                                                                                          |
+|-----|---------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
+| 33  | Write a program to find and count all palindromic substrings within a given string | [source code](https://github.com/emonislive/javascript-logic-building/blob/main/practice-30/p-33.js)                  |
+
+### Practice 31
+
+| No. | Problem                                                       | Answer                                                                                                                          |
+|-----|---------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
+| 34  | Write a program that checks if a given string of a parentheses is balanced and well formed | [source code](https://github.com/emonislive/javascript-logic-building/blob/main/practice-31/p-34.js)     |
+
+### Practice 32
+
+| No. | Problem                                                       | Answer                                                                                                                          |
+|-----|---------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
+| 35  | Write a program that finds all occurrences of a given word in a big string | [source code](https://github.com/emonislive/javascript-logic-building/blob/main/practice-32/p-35.js)                 |
+
+### Practice 33
+
+| No. | Problem                                                       | Answer                                                                                                                          |
+|-----|---------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
+| 36  | Write a program that generates a random number                | [source code](https://github.com/emonislive/javascript-logic-building/blob/main/practice-33/p-36.js)                           |
+| 37  | Write a program that takes input from the user                | [source code](https://github.com/emonislive/javascript-logic-building/blob/main/practice-33/p-37.js)                           |
+
+### Practice 34
+
+| No. | Problem                                                       | Answer                                                                                                                          |
+|-----|---------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
+| 38  | Write a program that simulates rolling a dice                 | [source code](https://github.com/emonislive/javascript-logic-building/blob/main/practice-34/p-38.js)                           |
+
+### Practice 35
+
+| No. | Problem                                                       | Answer                                                                                                                          |
+|-----|---------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
+| 39  | Write a program that creates a basic alarm clock              | [source code](https://github.com/emonislive/javascript-logic-building/blob/main/practice-35/p-39.js)                           |
+
+### Practice 36
+
+| No. | Problem                                                       | Answer                                                                                                                          |
+|-----|---------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
+| 40  | Write a program that builds a number guess game               | [source code](https://github.com/emonislive/javascript-logic-building/blob/main/practice-36/p-40.js)                           |
+
+### Practice 37
+
+| No. | Problem                                                       | Answer                                                                                                                          |
+|-----|---------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
+| 41  | Write a program that builds a very basic calculator           | [source code](https://github.com/emonislive/javascript-logic-building/blob/main/practice-37/p-41.js)                           |
+
+### Practice 38
+
+| No. | Problem                                                       | Answer                                                                                                                          |
+|-----|---------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
+| 42  | Write a program that plays Rock Paper Scissors with the user  | [source code](https://github.com/emonislive/javascript-logic-building/blob/main/practice-38/p-42.js)                           |
+
+### Practice 39
+
+| No. | Problem                                                       | Answer                                                                                                                          |
+|-----|---------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
+| 43  | Write to-do list program that allows user to add, remove, and list tasks | [source code](https://github.com/emonislive/javascript-logic-building/blob/main/practice-39/p-43.js)             |
