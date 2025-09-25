@@ -1,4 +1,4 @@
-// ! Write a program that takes input from the user
+// ! Write a program that simulates rolling a dice
 // ??? First install "npm install prompt-sync"
 
 function randomDice(numDice, slideDice) {
